@@ -1,0 +1,41 @@
+.red {
+    color: white;
+    background-color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    border: 2px solid black;
+    color: rgb(253, 253, 253);
+    text-align: center;
+    border-color: red;
+}
+
+.brown {
+    color: white;
+    background-color: rgb(80, 24, 24);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: 2px solid black;
+    color: rgb(253, 253, 253);
+    text-align: center;
+    border-color: rgb(124, 29, 29);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+.li {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.li:hover {
+    background-color: #555;
+    color: white;
+}
